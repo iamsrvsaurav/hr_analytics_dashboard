@@ -49,8 +49,8 @@ This repository presents a complete HR analytics project built in Power BI, leve
 ## 📷 Screenshots
 
 <!-- Add screenshots here for visual impact -->
-![Presence Insights Dashboard](images/img1.png)
-![Presence Insights Dashboard - May](images/img2.png)
+![Presence Insights Dashboard](img1.png)
+![Presence Insights Dashboard - May](img2.png)
 
 ---
 
